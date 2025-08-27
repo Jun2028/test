@@ -1,2 +1,2 @@
 # test
-This was a very old project from an undergrad course.
+This was an undergrad course project from years ago.
