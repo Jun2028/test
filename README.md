@@ -1,2 +1,2 @@
 # test
-This was an undergrad course project from years ago.
+This was an undergrad course project from years ago. An implementation from scratch using only numpy.
